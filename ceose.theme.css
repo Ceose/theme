@@ -6,13 +6,12 @@
 :root {
 --BMT-name: "Ceose";
 --BMT-text: "18";
---BMT-version: "Ceosse";
---BMT-author: "PONYMODZ";
+--BMT-version: "2.0";
+--BMT-author: "Ceose";
 --BMT-version-full: var(--BMT-name)" "var(--BMT-version) " by";
 --BMT-wordmark: var(--BMT-name)" "var(--BMT-version);
---BMT-load1: "Loading...";
---BMT-load2: "Almost Done";
---BMT-load3: "Finished!";
+--BMT-load1: "L o a d i n g";
+--BMT-load2: "F i n i s h e d!";
 }
 
 /*--Plugin Suport--*/
